@@ -1,6 +1,6 @@
 {
   "name": "custom-aaa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm init",
   "main": "dist/index.js",
   "scripts": {
@@ -12,9 +12,6 @@
     "rollup",
     "typescript"
   ],
-  "author": "",
-  "license": "MIT",
-  "browser": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yue163/suibian.git"
@@ -22,6 +19,9 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
+  "author": "",
+  "license": "MIT",
+  "browser": "dist/index.js",
   "devDependencies": {
     "rollup": "^2.39.0",
     "rollup-plugin-commonjs": "^10.1.0",
