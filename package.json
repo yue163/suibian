@@ -1,5 +1,5 @@
 {
-  "name": "custom-aaa",
+  "name": "custom-bbb",
   "version": "1.0.1",
   "description": "npm init",
   "main": "dist/index.js",
@@ -12,22 +12,9 @@
     "rollup",
     "typescript"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yue163/suibian.git"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   },
   "author": "",
-  "license": "MIT",
-  "browser": "dist/index.js",
-  "devDependencies": {
-    "rollup": "^2.39.0",
-    "rollup-plugin-commonjs": "^10.1.0",
-    "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-typescript": "^1.0.1",
-    "tslib": "^2.1.0",
-    "typescript": "^4.1.5"
-  }
+  "license": "MIT"
 }
