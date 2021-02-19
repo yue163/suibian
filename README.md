@@ -26,3 +26,6 @@ src/index.ts
 rollup -c
 
 # 将package.json文件拷贝到dist目录
+
+
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=5d09677f532105503ffe&state=b3dfa3b0-6d22-426f-b870-3dab4edc03a2
