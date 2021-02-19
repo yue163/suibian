@@ -15,6 +15,10 @@
   "author": "",
   "license": "MIT",
   "browser": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yue163/suibian.git"
+  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
